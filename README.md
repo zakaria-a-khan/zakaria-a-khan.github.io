@@ -51,6 +51,8 @@ You can find the relevant files and results in the **[formaldehyde submission fi
 - **[Formaldehyde HF vibrational frequencies](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_hf_vibrational_freq.PNG)**
 - **[Formaldehyde B3LYP thermochemistry](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_b3lyp_thermochem.PNG)**
 - **[Formaldehyde NIST thermochemistry experimental data](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_nist_thermochem_exp.PNG)**
+- **[Formaldehyde summary of quantum chemistry calculations](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_assignment2.pdf)**
+
 
 ### Additional Notes
 
