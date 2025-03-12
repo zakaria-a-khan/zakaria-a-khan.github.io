@@ -8,7 +8,7 @@ My name is Zakaria Khan. I am a final-year undergraduate student at **Wayne Stat
 
 This website serves as an online portfolio where I share information about my work and personal life.
 
-Toward the former, I have conducted research at federal laboratories and universities, which has led to me being named a **Goldwater Scholar**. Additionally, I have received research funding abroad as a **Fulbright Scholar**. My primary interests lie in the fields of **light-matter interactions** and **experimental quantum information**.
+Toward the former, I have conducted research at federal laboratories and universities, which has led to my being named a **Goldwater Scholar**. Additionally, I have received research funding abroad as a **Fulbright Scholar**. My primary interests are in **light-matter interactions** and **experimental quantum information**.
 
 Toward the latter, I enjoy reading various prose and the great outdoors. Growing up in Michigan, I've been spoiled by the beauty of the Great Lakes, and a full four seasons. I was also fortunate to have early exposure to various outdoor activities and backcountry living since my time as an **Eagle Scout** and patrol leader in Troop 743.
 
