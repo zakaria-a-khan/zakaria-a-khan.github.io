@@ -10,16 +10,16 @@ This website serves as an online portfolio where I share information about my wo
 
 Toward the former, I have conducted research at federal laboratories and universities, which has led to me being named a **Goldwater Scholar**. Additionally, I have received research funding abroad as a **Fulbright Scholar**. My primary interests lie in the fields of **light-matter interactions** and **experimental quantum information**.
 
-Toward the latter, I enjoy reading various prose, and the great outdoors. Growing up in Michigan, I've been spoiled by the beauty of the Great Lakes, a full four seasons, and others. I was also fortunate to have early exposure to various outdoor activities and backcountry living since my time as an **Eagle Scout** and patrol leader.
+Toward the latter, I enjoy reading various prose and the great outdoors. Growing up in Michigan, I've been spoiled by the beauty of the Great Lakes, and a full four seasons. I was also fortunate to have early exposure to various outdoor activities and backcountry living since my time as an **Eagle Scout** and patrol leader in Troop 743.
 
 You can find more details about my work and experiences through the following sections:
 
-- **[My Resume](./zk_resume.pdf)** – Learn more about my academic and professional background.
-- **[My GitHub](https://github.com/zakaria-a-khan)** – Explore my repositories and research projects.
+- **[My Resume](./zk_resume.pdf)**
+- **[My GitHub](https://github.com/zakaria-a-khan)**
 
 ### Quantum Chemistry Calculations
 
-As moreso a way for me to familiarize myself with github, repositories, etc., I've included a couple sets of basic quantum chemistry calculations that I have performed using density functional theory and hartree-foch. Below are some of the details and results.
+As a way to familiarize myself with GitHub, I've included a couple sets of basic quantum chemistry calculations that I have performed using Density Functional Theory and Hartree-Foch. Below are some of the details and results.
 
 #### Styrene Calculations
 
@@ -61,13 +61,13 @@ You can find the relevant files and results in the **[formaldehyde submission fi
 
 **Physics Vida** is my recent initiative to review core topics in physics in preparation for graduate school (qualifying exams, etc) and continued study. The initiative will focus on three key areas via their respective texts, listed below:
 
-1. **Classical Mechanics**: Goldstein, Poole, Safko (3rd Ed)
-2. **Electrodynamics**: Griffiths, Schroeter (3rd Ed)
-3. **Quantum Mechanics**: Griffiths (5th Ed)
+- **Classical Mechanics**: Goldstein, Poole, Safko (3rd Ed)
+- **Electrodynamics**: Griffiths, Schroeter (3rd Ed)
+- **Quantum Mechanics**: Griffiths (5th Ed)
 
 For full transparency, the texts were all sourced as pdf's from one of the following open-source sites:
-1. https://libgen.li
-2. https://annas-archive.org 
+- https://libgen.li
+- https://annas-archive.org 
 
 Note that the libgen umbrella is constantly taking down and putting up new url's so if these links are unavailable at any time, reddit likely has more updated url's.
 
@@ -100,11 +100,11 @@ Key Concepts:
 
 ### Fitness
 
-I got considerably lazy during the first few years of college and at the turn of the year I decided to up my cardiovascular fitness. To hold myself accountable, I track my running progress in [`running_log.md`](running_log.md). This includes distances, times, and notes.
+I got considerably lazy during the first few years of college and at the recent turn of the year decided to up my cardiovascular fitness. To hold myself accountable, I track my running progress in [`running_log.md`](running_log.md). This includes distances, times, and notes.
 
-Future extensions include adding more wholistic cardiovascular activities (swimming, etc), and attending amateur competitions (half-marathons, etc). While I don't touch weights, I'm also beginning to incorporate calesthenics and body-weight resistance exercises.
+Future extensions include adding more wholistic cardiovascular activities (swimming, etc), and attending amateur competitions (half-marathons, etc). When the weather gets sufficiently warm I'll move my runs to outside. While I don't touch weights, I'm beginning to incorporate calesthenics and body-weight-sourced-resistance exercises.
 
-## How to View my Website
+## My Website
 
 You can view my live website at:
 
