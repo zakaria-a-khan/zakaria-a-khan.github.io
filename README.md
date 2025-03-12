@@ -104,6 +104,26 @@ I got considerably lazy during the first few years of college and at the recent 
 
 Future extensions include adding more wholistic cardiovascular activities (swimming, etc), and attending amateur competitions (half-marathons, etc). When the weather gets sufficiently warm I'll move my runs to outside. While I don't touch weights, I'm beginning to incorporate calesthenics and body-weight-sourced-resistance exercises.
 
+I got bored so here's some visualization of my running progress.
+
+#### Distance Over Time
+![Distance Over Time](running/distance_over_time.png)
+
+#### Time Over Time
+![Time Over Time](running/time_over_time.png)
+
+#### Pace Over Time
+![Pace Over Time](running/pace_over_time.png)
+
+#### Pace Distribution
+![Pace Distribution](running/pace_distribution.png)
+
+#### Distance vs. Time (Colored by Notes)
+![Distance vs. Time](running/distance_vs_time_colored.png)
+
+#### Total Weekly Distance
+![Total Weekly Distance](running/total_weekly_distance.png)
+
 ## My Website
 
 You can view my live website at:
