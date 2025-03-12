@@ -53,13 +53,7 @@ You can find the relevant files and results in the **[formaldehyde submission fi
 - **[Formaldehyde NIST thermochemistry experimental data](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_nist_thermochem_exp.PNG)**
 - **[Formaldehyde summary of quantum chemistry calculations](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_assignment2.pdf)**
 
-
-### Additional Notes
-
-- The theoretical vibrational frequencies tend to be higher than experimental values, with B3LYP/6-31G(d,p) giving results closer to the experimental frequencies.
-- The thermochemical corrections and vibrational frequencies for formaldehyde at different levels of theory are provided in the screenshots and tables linked above.
-
-### How to View the Website
+## How to View the Website
 
 You can view my live website at:
 
