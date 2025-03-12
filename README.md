@@ -15,43 +15,49 @@ You can find more details about my work and experiences through the following se
 
 ## Quantum Chemistry Calculations
 
-I have also completed a series of quantum chemistry calculations for a course I took. Below is an overview of the steps involved and corresponding screenshots.
+This repository includes several sets of quantum chemistry calculations that I have performed. Below are the details of the most recent work I have done.
 
-### 1. Molecule Visualization
+### Styrene Calculations
 
-The molecule I chose for my calculations is **styrene**, visualized using GaussView. The image shows the atom numbering used in the Gaussian calculation.
+In the **styrene** calculations, I used Gaussian software to explore molecular properties. These calculations involved:
 
-- ![Styrene Molecule](https://github.com/zakaria-a-khan/zakaria-a-khan.github.io/blob/main/quantum_chemistry_calculations/styrene_submission_files/styrene.png)
-- ![Styrene Charge Distribution](https://github.com/zakaria-a-khan/zakaria-a-khan.github.io/blob/main/quantum_chemistry_calculations/styrene_submission_files/styrene_charge.png)
+- Geometry optimization and electronic structure analysis
+- Vibrational frequency analysis
+- Dipole moment and Mulliken charge calculations
+- Electrostatic potential mapping
 
-### 2. Gaussian Output
+You can find the detailed files and results in the **[styrene submission files](./quantum_chemistry_calculations/styrene_submission_files)** folder. This includes:
 
-- ![Styrene Results Log](https://github.com/zakaria-a-khan/zakaria-a-khan.github.io/blob/main/quantum_chemistry_calculations/styrene_submission_files/styrene_results_log.png)
+- **[Styrene molecule image](./quantum_chemistry_calculations/styrene_submission_files/styrene.png)**
+- **[Styrene charge distribution](./quantum_chemistry_calculations/styrene_submission_files/styrene_charge.png)**
+- **[Styrene HOMO orbital](./quantum_chemistry_calculations/styrene_submission_files/styrene_homo.PNG)**
+- **[Styrene LUMO orbital](./quantum_chemistry_calculations/styrene_submission_files/styrene_lumo.PNG)**
+- **[Styrene Mulliken charges and dipole moment](./quantum_chemistry_calculations/styrene_submission_files/styrene_mulliken_charges.png)**
+- **[Styrene electrostatic potential map](./quantum_chemistry_calculations/styrene_submission_files/styrene_electrostaticV.png)**
 
-### 3. Molecular Orbitals
+### Formaldehyde Calculations
 
-- ![Highest Occupied Molecular Orbital (HOMO)](https://github.com/zakaria-a-khan/zakaria-a-khan.github.io/blob/main/quantum_chemistry_calculations/styrene_submission_files/styrene_homo.PNG)
-- ![Lowest Unoccupied Molecular Orbital (LUMO)](https://github.com/zakaria-a-khan/zakaria-a-khan.github.io/blob/main/quantum_chemistry_calculations/styrene_submission_files/styrene_lumo.PNG)
-- ![HOMO-LUMO Gap](https://github.com/zakaria-a-khan/zakaria-a-khan.github.io/blob/main/quantum_chemistry_calculations/styrene_submission_files/styrene_homolumo.png)
+For my formaldehyde calculations, I used **HF/3-21G** and **B3LYP/6-31G(d,p)** levels of theory to compute vibrational frequencies and thermochemical properties. The calculations involved:
 
-### 4. Mulliken Charges and Dipole Moment
+- **Geometry optimization** and vibrational frequency calculations at both HF/3-21G and B3LYP/6-31G(d,p) levels.
+- **Thermochemical corrections** for zero-point energy, thermal correction to enthalpy, and free energy.
+- **Comparison of experimental and theoretical frequencies** for formaldehyde.
 
-- ![Dipole Moment](https://github.com/zakaria-a-khan/zakaria-a-khan.github.io/blob/main/quantum_chemistry_calculations/styrene_submission_files/styrene_dipole_moment.png)
-- ![Mulliken Charges](https://github.com/zakaria-a-khan/zakaria-a-khan.github.io/blob/main/quantum_chemistry_calculations/styrene_submission_files/styrene_mulliken_charges.png)
+You can find the relevant files and results in the **[formaldehyde submission files](./quantum_chemistry_calculations/formaldehyde_submission_files)** folder. These include:
 
-### 5. Electrostatic Potential
+- **[Formaldehyde B3LYP log archive](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_b3lyp_log_archive.PNG)**
+- **[Formaldehyde HF log archive](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_hf_log_archive.PNG)**
+- **[Formaldehyde B3LYP vibrational frequencies](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_b3lyp_vibrational_freq.PNG)**
+- **[Formaldehyde HF vibrational frequencies](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_hf_vibrational_freq.PNG)**
+- **[Formaldehyde B3LYP thermochemistry](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_b3lyp_thermochem.PNG)**
+- **[Formaldehyde NIST thermochemistry experimental data](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_nist_thermochem_exp.PNG)**
 
-- ![Electrostatic Potential](https://github.com/zakaria-a-khan/zakaria-a-khan.github.io/blob/main/quantum_chemistry_calculations/styrene_submission_files/styrene_electrostaticV.png)
-## Website Contents
+### Additional Notes
 
-This repository is dedicated to my personal website, hosted on **GitHub Pages**. The website includes:
+- The theoretical vibrational frequencies tend to be higher than experimental values, with B3LYP/6-31G(d,p) giving results closer to the experimental frequencies.
+- The thermochemical corrections and vibrational frequencies for formaldehyde at different levels of theory are provided in the screenshots and tables linked above.
 
-- An **About Me** section
-- A link to my **Resume** (PDF)
-- A profile picture and contact details
-- My **Quantum Chemistry Calculations** and related screenshots
-
-## How to View the Website
+### How to View the Website
 
 You can view my live website at:
 
