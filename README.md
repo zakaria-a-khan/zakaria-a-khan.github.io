@@ -61,6 +61,11 @@ You can find the relevant files and results in the **[formaldehyde submission fi
 2. **Electrodynamics**: Griffiths, Schroeter (3rd Ed)
 3. **Quantum Mechanics**: Griffiths (5th Ed)
 
+The texts listed above were all sourced from one of the following open-source sites.
+1. https://libgen.li
+2. https://annas-archive.org 
+Note that the libgen umbrella constantly taking down and putting up new url's. so if these links are unavailable at any time, reddit likely has more updated url's.
+
 #### Plan:
 - Review **10 pages/day** from each of the three texts. So in total **30 pages/day** of material.
 - Goal: Complete all three texts by term end in May 2025.
