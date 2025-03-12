@@ -15,7 +15,7 @@ You can find more details about my work and experiences through the following se
 
 ### Quantum Chemistry Calculations
 
-This repository includes several sets of quantum chemistry calculations that I have performed. Below are the details of the most recent work I have done.
+As moreso a way for me to familiarize myself with github, repositories, etc., I've included a couple sets of basic quantum chemistry calculations that I have performed using density functional theory and hartree-foch. Below are some of the details and results.
 
 #### Styrene Calculations
 
@@ -55,23 +55,23 @@ You can find the relevant files and results in the **[formaldehyde submission fi
 
 ### Physics Vida: Review of Theory (Beginning March 2025)
 
-**Physics Vida** is my personal initiative to review core topics in physics in preparation for graduate school (qualifying exams, etc) and continued study. The initiative will focus on three key areas:
+**Physics Vida** is my recent initiative to review core topics in physics in preparation for graduate school (qualifying exams, etc) and continued study. The initiative will focus on three key areas via their respective texts, listed below:
 
 1. **Classical Mechanics**: Goldstein, Poole, Safko (3rd Ed)
 2. **Electrodynamics**: Griffiths, Schroeter (3rd Ed)
 3. **Quantum Mechanics**: Griffiths (5th Ed)
 
-The texts listed above were all sourced from one of the following open-source sites.
+For full transparency, the texts were all sourced as pdf's from one of the following open-source sites:
 1. https://libgen.li
 2. https://annas-archive.org 
 
-Note that the libgen umbrella constantly taking down and putting up new url's. so if these links are unavailable at any time, reddit likely has more updated url's.
+Note that the libgen umbrella is constantly taking down and putting up new url's so if these links are unavailable at any time, reddit likely has more updated url's.
 
 #### Plan:
 - Review **10 pages/day** from each of the three texts. So in total **30 pages/day** of material.
 - Goal: Complete all three texts by term end in May 2025.
 - Duration: **60 days** (starting March 1, 2025).
-- Time: Approx. **2-2.5 hours/day** for reading and working problems.
+- Time: Approx. **3 hours/day** for reading and working problems.
 - Extension: Spend the summer on more advanced, graduate level theory texts in optics, advanced quantum physics.
 
 #### Weekly Progress Updates:
