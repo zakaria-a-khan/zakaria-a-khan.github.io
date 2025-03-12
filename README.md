@@ -13,11 +13,11 @@ You can find more details about my work and experiences through the following se
 - **[My Resume](./zk_resume.pdf)** – Learn more about my academic and professional background.
 - **[My GitHub](https://github.com/zakaria-a-khan)** – Explore my repositories and research projects.
 
-## Quantum Chemistry Calculations
+### Quantum Chemistry Calculations
 
 This repository includes several sets of quantum chemistry calculations that I have performed. Below are the details of the most recent work I have done.
 
-### Styrene Calculations
+#### Styrene Calculations
 
 In the **styrene** calculations, I used Gaussian software to explore molecular properties. These calculations involved:
 
@@ -35,7 +35,7 @@ You can find the detailed files and results in the **[styrene submission files](
 - **[Styrene Mulliken charges and dipole moment](./quantum_chemistry_calculations/styrene_submission_files/styrene_mulliken_charges.png)**
 - **[Styrene electrostatic potential map](./quantum_chemistry_calculations/styrene_submission_files/styrene_electrostaticV.png)**
 
-### Formaldehyde Calculations
+#### Formaldehyde Calculations
 
 For my formaldehyde calculations, I used **HF/3-21G** and **B3LYP/6-31G(d,p)** levels of theory to compute vibrational frequencies and thermochemical properties. The calculations involved:
 
@@ -52,6 +52,42 @@ You can find the relevant files and results in the **[formaldehyde submission fi
 - **[Formaldehyde B3LYP thermochemistry](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_b3lyp_thermochem.PNG)**
 - **[Formaldehyde NIST thermochemistry experimental data](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_nist_thermochem_exp.PNG)**
 - **[Formaldehyde summary of quantum chemistry calculations](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_assignment2.pdf)**
+
+### Physics Vida: Review of Theory (Beginning March 2025)
+
+**Physics Vida** is my personal initiative to review core topics in physics in preparation for graduate school (qualifying exams, etc) and continued study. The initiative will focus on three key areas:
+
+1. **Classical Mechanics**: Goldstein, Poole, Safko (3rd Ed)
+2. **Electrodynamics**: Griffiths, Schroeter (3rd Ed)
+3. **Quantum Mechanics**: Griffiths (5th Ed)
+
+#### Plan:
+- Review **10 pages/day** from each of the three texts. So in total **30 pages/day** of material.
+- Goal: Complete all three texts by term end in May 2025.
+- Duration: **60 days** (starting March 1, 2025).
+- Time: Approx. **2-2.5 hours/day** for reading and working problems.
+- Extension: Spend the summer on more advanced, graduate level theory texts in optics, advanced quantum physics.
+
+#### Weekly Progress Updates:
+I'll track my progress in a weekly log, summarizing what I’ve covered and key concepts learned. May include notes but may be difficult because all my notes are hand-written.
+
+#### Progress Log:
+
+**March 1–7:**
+- Classical Mechanics: 70 pages completed
+- Electrodynamics: 70 pages completed
+- Quantum Mechanics: 70 pages completed
+
+Key Concepts:
+- Classical Mechanics: Newtonian Mechanics, Lagrangian Formulation
+- Electrodynamics: Gauss's Law, Electric Potential
+- Quantum Mechanics: Wave-Particle Duality, Operators
+
+#### Physics Vida Resources:
+
+- **Notes**: [Link to Notes Folder]
+- **Problems/Examples**: [Link to Problems Folder]
+
 
 ## How to View the Website
 
