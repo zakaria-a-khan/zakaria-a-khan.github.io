@@ -21,37 +21,37 @@ I have also completed a series of quantum chemistry calculations for a course I 
 
 The molecule I chose for my calculations is **styrene**, visualized using GaussView. The image shows the atom numbering used in the Gaussian calculation.
 
-- ![Styrene Molecule](./quantum%20chemistry%20calculations/styrene%20submission%20files/styrene.png)
-- ![Styrene Charge Distribution](./quantum%20chemistry%20calculations/styrene%20submission%20files/styrene_charge.png)
+- ![Styrene Molecule](https://github.com/zakaria-a-khan/zakaria-a-khan.github.io/blob/main/quantum%20chemistry%20calculations/styrene%20submission%20files/styrene.png)
+- ![Styrene Charge Distribution](https://github.com/zakaria-a-khan/zakaria-a-khan.github.io/blob/main/quantum%20chemistry%20calculations/styrene%20submission%20files/styrene_charge.png)
 
 ### 2. Gaussian Calculation Details
 
 The Gaussian archive entry at the end of the output shows the details of my calculation and the total energy (6 decimal places).
 
-- ![Styrene Gaussian Results Log](./quantum%20chemistry%20calculations/styrene%20submission%20files/styrene_results_log.png)
+- ![Styrene Gaussian Results Log](https://github.com/zakaria-a-khan/zakaria-a-khan.github.io/blob/main/quantum%20chemistry%20calculations/styrene%20submission%20files/styrene_results_log.png)
 
 ### 3. Molecular Orbitals
 
 The highest occupied molecular orbital (HOMO) and its energy:
 
-- ![HOMO](./quantum%20chemistry%20calculations/styrene%20submission%20files/styrene_homo.PNG)
+- ![HOMO](https://github.com/zakaria-a-khan/zakaria-a-khan.github.io/blob/main/quantum%20chemistry%20calculations/styrene%20submission%20files/styrene_homo.PNG)
 
 The lowest unoccupied molecular orbital (LUMO) and its energy:
 
-- ![LUMO](./quantum%20chemistry%20calculations/styrene%20submission%20files/styrene_lumo.PNG)
+- ![LUMO](https://github.com/zakaria-a-khan/zakaria-a-khan.github.io/blob/main/quantum%20chemistry%20calculations/styrene%20submission%20files/styrene_lumo.PNG)
 
 ### 4. Mulliken Charges and Dipole Moment
 
 Here are the Mulliken charges (2 decimal places, atom numbers) and the dipole moment:
 
-- ![Mulliken Charges](./quantum%20chemistry%20calculations/styrene%20submission%20files/styrene_mulliken_charges.png)
-- ![Dipole Moment](./quantum%20chemistry%20calculations/styrene%20submission%20files/styrene_dipole_moment.png)
+- ![Mulliken Charges](https://github.com/zakaria-a-khan/zakaria-a-khan.github.io/blob/main/quantum%20chemistry%20calculations/styrene%20submission%20files/styrene_mulliken_charges.png)
+- ![Dipole Moment](https://github.com/zakaria-a-khan/zakaria-a-khan.github.io/blob/main/quantum%20chemistry%20calculations/styrene%20submission%20files/styrene_dipole_moment.png)
 
 ### 5. Electrostatic Potential
 
 The electrostatic potential mapped on the density surface:
 
-- ![Electrostatic Potential](./quantum%20chemistry%20calculations/styrene%20submission%20files/styrene_electrostaticV.png)
+- ![Electrostatic Potential](https://github.com/zakaria-a-khan/zakaria-a-khan.github.io/blob/main/quantum%20chemistry%20calculations/styrene%20submission%20files/styrene_electrostaticV.png)
 
 ## Website Contents
 
