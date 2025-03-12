@@ -30,8 +30,8 @@ You can find the detailed files and results in the **[styrene submission files](
 
 - **[Styrene molecule image](./quantum_chemistry_calculations/styrene_submission_files/styrene.png)**
 - **[Styrene charge distribution](./quantum_chemistry_calculations/styrene_submission_files/styrene_charge.png)**
-- **[Styrene HOMO orbital](./quantum_chemistry_calculations/styrene_submission_files/styrene_homo.png)**
-- **[Styrene LUMO orbital](./quantum_chemistry_calculations/styrene_submission_files/styrene_lumo.png)**
+- **[Styrene HOMO orbital](./quantum_chemistry_calculations/styrene_submission_files/styrene_homo.PNG)**
+- **[Styrene LUMO orbital](./quantum_chemistry_calculations/styrene_submission_files/styrene_lumo.PNG)**
 - **[Styrene Mulliken charges and dipole moment](./quantum_chemistry_calculations/styrene_submission_files/styrene_mulliken_charges.png)**
 - **[Styrene electrostatic potential map](./quantum_chemistry_calculations/styrene_submission_files/styrene_electrostaticV.png)**
 
