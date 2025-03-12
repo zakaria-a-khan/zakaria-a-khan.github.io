@@ -95,7 +95,7 @@ Key Concepts:
 - **Problems/Examples**: [Link to Problems Folder]
 
 
-## How to View the Website
+## How to View my Website
 
 You can view my live website at:
 
