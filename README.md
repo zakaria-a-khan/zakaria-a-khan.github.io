@@ -2,7 +2,7 @@
 
 Welcome to my personal website repository!
 
-I am a final-year student at **Wayne State University**, majoring in **Physics** and **Chemistry**. This website serves as an online portfolio where I share information about my academic background, research interests, and professional achievements.
+I am a final-year student at **Wayne State University**, majoring in **Physics** and **Chemistry**. This website serves as an online portfolio where I share information about my academic background, research interests, and achievements.
 
 ## About Me
 
