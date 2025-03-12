@@ -2,11 +2,15 @@
 
 Welcome to my personal website repository!
 
-I am a final-year undergraduate student at **Wayne State University**, majoring in **Physics** and **Chemistry**. This website serves as an online portfolio where I share information about my academic background, research interests, and achievements.
-
 ## About Me
 
-I have had the privilege of interning at federal laboratories and universities, which led to me being named a **Goldwater Scholar**. Additionally, I have received **research funding abroad** as a **Fulbright Scholar**. My primary interests lie in the fields of **light-matter interactions** and **experimental quantum information**.
+My name is Zakaria Khan. I am a final-year undergraduate student at **Wayne State University**, majoring in **Chemistry** and **Physics**.
+
+This website serves as an online portfolio where I share information about my work and personal life.
+
+Toward the former, I have conducted research at federal laboratories and universities, which has led to me being named a **Goldwater Scholar**. Additionally, I have received research funding abroad as a **Fulbright Scholar**. My primary interests lie in the fields of **light-matter interactions** and **experimental quantum information**.
+
+Toward the latter, I enjoy reading various prose, and the great outdoors. Growing up in Michigan, I've been spoiled by the beauty of the Great Lakes, a full four seasons, and others. I was also fortunate to have early exposure to various outdoor activities and backcountry living since my time as an **Eagle Scout** and patrol leader.
 
 You can find more details about my work and experiences through the following sections:
 
