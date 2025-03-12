@@ -1,4 +1,4 @@
-# Zakaria A. Khan's Personal Website
+# Zakaria Khan's Personal Website
 
 Welcome to my personal website repository!
 
