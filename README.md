@@ -94,6 +94,11 @@ Key Concepts:
 - **Notes**: [Link to Notes Folder]
 - **Problems/Examples**: [Link to Problems Folder]
 
+### Fitness
+
+I got considerably lazy during the first few years of college and at the turn of the year I decided to up my cardiovascular fitness. To hold myself accountable, I track my running progress in [`running_log.md`](running_log.md). This includes distances, times, and notes.
+
+Future extensions include adding more wholistic cardiovascular activities (swimming, etc), and attending amateur competitions (half-marathons, etc). While I don't touch weights, I'm also beginning to incorporate calesthenics and body-weight resistance exercises.
 
 ## How to View my Website
 
