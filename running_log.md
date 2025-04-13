@@ -36,10 +36,15 @@ I started running in late 2024 with the goal of improving my cardiovascular fitn
 | 02/25/25  | 7.00 mi | 55:50   | Treadmill |
 | 02/27/25  | 10.00 mi | 79:40  | Treadmill (+3 miles) |
 | 02/28/25  | 10.00 mi | 73:20  | Treadmill |
-| 03/03/25  | 3.00 mi  | --      | Quit due to leg burn (first Ramadan run) |
 | 03/04/25  | 10.00 mi | 79:40  | Treadmill |
 | 03/05/25  | 10.00 mi | 78:45  | Treadmill |
 | 03/06/25  | 10.00 mi | 80:00  | Treadmill |
+| 03/17/25  | 7.00 mi | 56:00  | Treadmill |
+| 04/04/25  | 10.00 mi | 80:00  | Treadmill |
+| 04/07/25  | 10.03 mi | 80:04  | Treadmill |
+| 04/09/25  | 10.01 mi | 79:41  | Treadmill |
+| 04/11/25  | 14.44 mi | 115:01  | Treadmill (first half marathon+) |
+
 
 ### Future Goals
 - Maintain 10-mile runs during Ramadan
