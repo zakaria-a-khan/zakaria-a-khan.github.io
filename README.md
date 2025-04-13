@@ -57,6 +57,34 @@ You can find the relevant files and results in the **[formaldehyde submission fi
 - **[Formaldehyde NIST thermochemistry experimental data](./quantum_chemistry_calculations/as2_formaldehyde_submission_files/formaldehyde_nist_thermochem_exp.PNG)**
 - **[Formaldehyde summary of quantum chemistry calculations](./quantum_chemistry_calculations/as2_formaldehyde_submission_files/formaldehyde_assignment2.pdf)**
 
+#### Acetaldehyde → Vinyl Alcohol (Transition State) Calculations
+
+In this project, I explored the **reaction energy and activation barrier** for the conversion of acetaldehyde to vinyl alcohol. Calculations were performed at the **HF/3-21G** and **HF/6-31G(d,p)** levels of theory, and included:
+
+- Geometry optimizations for the **reactant**, **transition state**, and **product**
+- Use of **QST2/QST3** methods and the **Opt=NoEigenTest** keyword to locate the transition state
+- Extraction of total energies, zero-point energies, enthalpies, free energies, and bond lengths for key atoms (C-C, C-O, C-H₁, O-H₁)
+- Final results include activation barriers and reaction energies at both theory levels
+
+This calculation was particularly interesting as it followed directly from a guest lecture by **Bernhard Schlegel**, a pioneer of transition state theory.
+
+You can find the full writeup in:  
+**[Assignment 3 – Acetaldehyde → Vinyl Alcohol](./quantum_chemistry_calculations/as3_acetaldehyde_submission_files/Assignment%203-2_take2.docx)**
+
+#### DFT Calculation of Silicon Using Quantum ESPRESSO
+
+In this project, I used **Quantum ESPRESSO** on **Google Colab** to perform a self-consistent field (SCF) calculation of **crystalline silicon**. Tasks included:
+
+- Modifying the input files for pseudopotentials and crystal structure
+- Running the SCF calculation and analyzing convergence
+- Visualizing the silicon unit cell in both 3D and 2D
+- Creating a custom 2D plot of the system’s total energy, which was found to be approximately **–15.84 Ry** — a value consistent with the expected stability of crystalline solids
+
+I encountered and resolved issues related to pseudopotential downloads and output interpretation. This assignment sparked my interest in using **Colab/Jupyter** as a lightweight framework for **prototyping simulations and sharing reproducible workflows** in computational chemistry and materials modeling.
+
+You can view my edited notebook here:  
+**[Quantum ESPRESSO SCF for Si (Colab Notebook)](./quantum_chemistry_calculations/as4_qespresso/zk_edited_Quantum_Espresso_Colab.html)**
+
 ### Physics Vida: Review of Theory (Beginning March 2025)
 
 **Physics Vida** is my recent initiative to review core topics in physics in preparation for graduate school (qualifying exams, etc) and continued study. The initiative will focus on three key areas via their respective texts, listed below:
