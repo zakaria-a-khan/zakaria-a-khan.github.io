@@ -87,18 +87,20 @@ You can view my edited notebook here:
 
 #### Quantum Tunneling in [Fe(CO)₅] (Final Project)
 
-For my final project, I am investigating the **quantum tunneling behavior** in the transition metal complex **[Fe(CO)₅]**, which undergoes Berry pseudorotation between axial and equatorial ligand positions. This system is known for its fluxionality, and the project was partly inspired by a guest lecture from **Bernhard Schlegel**, one of the key developers of modern transition state theory.
+For my final project, I am investigating the **quantum tunneling behavior** in the transition metal complex **[Fe(CO)₅]**, which undergoes Berry pseudorotation between axial and equatorial ligand positions. This system is known for its fluxionality, and the project was partly inspired by a guest lecture from **Dr. Bernhard Schlegel**, one of the key developers of modern transition state theory.
 
 The study uses **HF and DFT (B3LYP)** methods, applying a **6-31G(d)** basis set for light atoms and **def2-TZVP** for iron. Calculations include geometry optimizations and a scan along the reaction coordinate to build the **potential energy surface (PES)**. The goal is to evaluate tunneling probabilities using the **WKB approximation**, compare HF and DFT performance, and relate structural distortions to tunneling efficiency.
 
 As of now, I have submitted a project proposal and generated preliminary PES plots. These reveal a shallow double-well energy profile consistent with degenerate structures and quantum tunneling between them.
 
-- **[Project Proposal (PDF)](./quantum_chemistry_calculations/as5_project/project_proposal.pdf)**
-- ![3D PES](./quantum_chemistry_calculations/as5_project/fe_co5_3d_pes.png)
-  > *Simulated 3D potential energy surface (PES) for Berry pseudorotation in [Fe(CO)₅], showing a symmetric double-well along the ligand displacement coordinate. The second axis approximates angular or bond-length distortion. The shallow barrier supports fluxionality and tunneling between equivalent geometries.*
+You can view the materials below:
 
-- ![1D PES](./quantum_chemistry_calculations/as5_project/fe_co5_pes_plot.png)
-  > *Relaxed 1D PES scan along the Berry pseudorotation coordinate, computed at the B3LYP/LANL2DZ//6-31G(d) level. The symmetric double-well potential illustrates a low barrier (~4 kcal/mol) for axial/equatorial ligand exchange, consistent with quantum tunneling behavior.*
+- **[Project Proposal (PDF)](./quantum_chemistry_calculations/as5_project/project_proposal.pdf)**
+- **[3D PES Plot – fe_co5_3d_pes.png](./quantum_chemistry_calculations/as5_project/fe_co5_3d_pes.png)**  
+  *Simulated 3D PES for Berry pseudorotation in [Fe(CO)₅], showing a symmetric double-well potential along the ligand displacement coordinate.*
+
+- **[1D PES Scan – fe_co5_pes_plot.png](./quantum_chemistry_calculations/as5_project/fe_co5_pes_plot.png)**  
+  *Relaxed scan along the reaction coordinate (B3LYP/LANL2DZ//6-31G(d)), revealing a ~4 kcal/mol barrier consistent with tunneling behavior.*
 
 This preliminary work supports the hypothesis that [Fe(CO)₅] undergoes pseudorotation via a low-energy tunneling pathway. Full results and analysis will be added here upon project completion in the coming weeks.
 
