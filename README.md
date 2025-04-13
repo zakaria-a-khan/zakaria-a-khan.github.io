@@ -98,9 +98,8 @@ You can view the materials below:
 - **[Project Proposal (PDF)](./quantum_chemistry_calculations/as5_project/project_proposal.pdf)**
 - **[3D PES Plot – fe_co5_3d_pes.png](./quantum_chemistry_calculations/as5_project/fe_co5_3d_pes.png)**  
   *Simulated 3D PES for Berry pseudorotation in [Fe(CO)₅], showing a symmetric double-well potential along the ligand displacement coordinate.*
-
 - **[1D PES Scan – fe_co5_pes_plot.png](./quantum_chemistry_calculations/as5_project/fe_co5_pes_plot.png)**  
-  *Relaxed scan along the reaction coordinate (B3LYP/LANL2DZ//6-31G(d)), revealing a ~4 kcal/mol barrier consistent with tunneling behavior.*
+  Relaxed scan along the reaction coordinate (B3LYP/LANL2DZ//6-31G(d)), revealing a ~4 kcal/mol barrier consistent with tunneling behavior.
 
 This preliminary work supports the hypothesis that [Fe(CO)₅] undergoes pseudorotation via a low-energy tunneling pathway. Full results and analysis will be added here upon project completion in the coming weeks.
 
