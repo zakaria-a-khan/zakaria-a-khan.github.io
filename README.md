@@ -59,7 +59,7 @@ You can find the relevant files and results in the **[formaldehyde submission fi
 
 #### Acetaldehyde → Vinyl Alcohol (Transition State) Calculations
 
-In this project, I explored the **reaction energy and activation barrier** for the conversion of acetaldehyde to vinyl alcohol. Calculations were performed at the **HF/3-21G** and **HF/6-31G(d,p)** levels of theory, and included:
+In this calculation, I explored the **reaction energy and activation barrier** for the conversion of acetaldehyde to vinyl alcohol. Calculations were performed at the **HF/3-21G** and **HF/6-31G(d,p)** levels of theory, and included:
 
 - Geometry optimizations for the **reactant**, **transition state**, and **product**
 - Use of **QST2/QST3** methods and the **Opt=NoEigenTest** keyword to locate the transition state
@@ -73,7 +73,7 @@ You can find the full writeup in:
 
 #### DFT Calculation of Silicon Using Quantum ESPRESSO
 
-In this project, I used **Quantum ESPRESSO** on **Google Colab** to perform a self-consistent field (SCF) calculation of **crystalline silicon**. Tasks included:
+In this calculation, I used **Quantum ESPRESSO** on **Google Colab** to perform a self-consistent field (SCF) calculation of **crystalline silicon**. Tasks included:
 
 - Modifying the input files for pseudopotentials and crystal structure
 - Running the SCF calculation and analyzing convergence
@@ -84,6 +84,23 @@ I encountered and resolved issues related to pseudopotential downloads and outpu
 
 You can view my edited notebook here:  
 **[Quantum ESPRESSO SCF for Si (Colab Notebook)](./quantum_chemistry_calculations/as4_qespresso/zk_edited_Quantum_Espresso_Colab.html)**
+
+#### Quantum Tunneling in [Fe(CO)₅] (Final Project)
+
+For my final project, I am investigating the **quantum tunneling behavior** in the transition metal complex **[Fe(CO)₅]**, which undergoes Berry pseudorotation between axial and equatorial ligand positions. This system is known for its fluxionality, and the project was partly inspired by a guest lecture from **Bernhard Schlegel**, one of the key developers of modern transition state theory.
+
+The study uses **HF and DFT (B3LYP)** methods, applying a **6-31G(d)** basis set for light atoms and **def2-TZVP** for iron. Calculations include geometry optimizations and a scan along the reaction coordinate to build the **potential energy surface (PES)**. The goal is to evaluate tunneling probabilities using the **WKB approximation**, compare HF and DFT performance, and relate structural distortions to tunneling efficiency.
+
+As of now, I have submitted a project proposal and generated preliminary PES plots. These reveal a shallow double-well energy profile consistent with degenerate structures and quantum tunneling between them.
+
+- **[Project Proposal (PDF)](./quantum_chemistry_calculations/as5_project/project_proposal.pdf)**
+- ![3D PES](./quantum_chemistry_calculations/as5_project/fe_co5_3d_pes.png)
+  > *Simulated 3D potential energy surface (PES) for Berry pseudorotation in [Fe(CO)₅], showing a symmetric double-well along the ligand displacement coordinate. The second axis approximates angular or bond-length distortion. The shallow barrier supports fluxionality and tunneling between equivalent geometries.*
+
+- ![1D PES](./quantum_chemistry_calculations/as5_project/fe_co5_pes_plot.png)
+  > *Relaxed 1D PES scan along the Berry pseudorotation coordinate, computed at the B3LYP/LANL2DZ//6-31G(d) level. The symmetric double-well potential illustrates a low barrier (~4 kcal/mol) for axial/equatorial ligand exchange, consistent with quantum tunneling behavior.*
+
+This preliminary work supports the hypothesis that [Fe(CO)₅] undergoes pseudorotation via a low-energy tunneling pathway. Full results and analysis will be added here upon project completion in the coming weeks.
 
 ### Physics Vida: Review of Theory (Beginning March 2025)
 
