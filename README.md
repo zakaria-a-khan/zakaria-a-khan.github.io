@@ -103,6 +103,31 @@ You can view the materials below:
 
 This preliminary work supports the hypothesis that [Fe(CO)₅] undergoes pseudorotation via a low-energy tunneling pathway. Full results and analysis will be added here upon project completion in the coming weeks.
 
+### Monte Carlo for Physical Modeling
+
+As part of my computational physics coursework, I am developing a Monte Carlo simulation to model **exciton transport in quantum dot systems**, a problem relevant to **quantum information**, **photonics**, and **materials design**. This project merges concepts from **solid-state physics**, **quantum optics**, and **stochastic numerical modeling**, with implementation in **C++** and visualization planned in **Python** and **ROOT**.
+
+#### Project Summary
+
+Excitons — bound electron-hole pairs — are central to the optical behavior of quantum dots. Understanding how they move, recombine, or get trapped is crucial for optimizing **single-photon sources** and **energy transport** in optoelectronic devices. The simulation will use a **Monte Carlo random walk** approach on a 2D array of quantum dots to track exciton behavior under varying assumptions about trapping and recombination probabilities, disorder, and defect states.
+
+This is an ongoing project. The following two slide decks outline the core plan and numerical approach:
+
+- **[Project Proposal (PPTX)](./monte_carlo/proposal_draft1.pptx)**  
+  Covers motivation, physical model, and how Monte Carlo methods will simulate stochastic exciton dynamics.
+
+- **[Numerical Approach & Simulation Plan (PPTX)](./monte_carlo/approach_draft2.pptx)**  
+  Details algorithmic steps, assumptions, data structures, parallelization strategy, and output/visualization plans.
+
+The final simulation will:
+- Represent a 2D quantum dot grid using `std::vector` or arrays
+- Model exciton movement as a random walk with probabilistic decay and trapping
+- Output key statistics such as diffusion lengths, recombination rates, and trap probabilities
+- Explore effects of system size, temperature, and lattice disorder
+- Use **OpenMP** for parallelism and **ROOT** for structured output and visual analysis
+
+Further updates and results will be posted here as the project progresses.
+
 ### Physics Vida: Review of Theory (Beginning March 2025)
 
 **Physics Vida** is my recent initiative to review core topics in physics in preparation for graduate school (qualifying exams, etc) and continued study. The initiative will focus on three key areas via their respective texts, listed below:
