@@ -32,12 +32,12 @@ In the **styrene** calculations, I used Gaussian software to explore molecular p
 
 You can find the detailed files and results in the **[styrene submission files](./quantum_chemistry_calculations/styrene_submission_files)** folder. This includes:
 
-- **[Styrene molecule image](./quantum_chemistry_calculations/styrene_submission_files/styrene.png)**
-- **[Styrene charge distribution](./quantum_chemistry_calculations/styrene_submission_files/styrene_charge.png)**
-- **[Styrene HOMO orbital](./quantum_chemistry_calculations/styrene_submission_files/styrene_homo.PNG)**
-- **[Styrene LUMO orbital](./quantum_chemistry_calculations/styrene_submission_files/styrene_lumo.PNG)**
-- **[Styrene Mulliken charges and dipole moment](./quantum_chemistry_calculations/styrene_submission_files/styrene_mulliken_charges.png)**
-- **[Styrene electrostatic potential map](./quantum_chemistry_calculations/styrene_submission_files/styrene_electrostaticV.png)**
+- **[Styrene molecule image](./quantum_chemistry_calculations/as1_styrene_submission_files/styrene.png)**
+- **[Styrene charge distribution](./quantum_chemistry_calculations/as1_styrene_submission_files/styrene_charge.png)**
+- **[Styrene HOMO orbital](./quantum_chemistry_calculations/as1_styrene_submission_files/styrene_homo.PNG)**
+- **[Styrene LUMO orbital](./quantum_chemistry_calculations/as1_styrene_submission_files/styrene_lumo.PNG)**
+- **[Styrene Mulliken charges and dipole moment](./quantum_chemistry_calculations/as1_styrene_submission_files/styrene_mulliken_charges.png)**
+- **[Styrene electrostatic potential map](./quantum_chemistry_calculations/as1_styrene_submission_files/styrene_electrostaticV.png)**
 
 #### Formaldehyde Calculations
 
@@ -49,13 +49,13 @@ For my formaldehyde calculations, I used **HF/3-21G** and **B3LYP/6-31G(d,p)** l
 
 You can find the relevant files and results in the **[formaldehyde submission files](./quantum_chemistry_calculations/formaldehyde_submission_files)** folder. These include:
 
-- **[Formaldehyde B3LYP log archive](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_b3lyp_log_archive.PNG)**
-- **[Formaldehyde HF log archive](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_hf_log_archive.PNG)**
-- **[Formaldehyde B3LYP vibrational frequencies](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_b3lyp_vibrational_freq.PNG)**
-- **[Formaldehyde HF vibrational frequencies](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_hf_vibrational_freq.PNG)**
-- **[Formaldehyde B3LYP thermochemistry](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_b3lyp_thermochem.PNG)**
-- **[Formaldehyde NIST thermochemistry experimental data](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_nist_thermochem_exp.PNG)**
-- **[Formaldehyde summary of quantum chemistry calculations](./quantum_chemistry_calculations/formaldehyde_submission_files/formaldehyde_assignment2.pdf)**
+- **[Formaldehyde B3LYP log archive](./quantum_chemistry_calculations/as2_formaldehyde_submission_files/formaldehyde_b3lyp_log_archive.PNG)**
+- **[Formaldehyde HF log archive](./quantum_chemistry_calculations/as2_formaldehyde_submission_files/formaldehyde_hf_log_archive.PNG)**
+- **[Formaldehyde B3LYP vibrational frequencies](./quantum_chemistry_calculations/as2_formaldehyde_submission_files/formaldehyde_b3lyp_vibrational_freq.PNG)**
+- **[Formaldehyde HF vibrational frequencies](./quantum_chemistry_calculations/as2_formaldehyde_submission_files/formaldehyde_hf_vibrational_freq.PNG)**
+- **[Formaldehyde B3LYP thermochemistry](./quantum_chemistry_calculations/as2_formaldehyde_submission_files/formaldehyde_b3lyp_thermochem.PNG)**
+- **[Formaldehyde NIST thermochemistry experimental data](./quantum_chemistry_calculations/as2_formaldehyde_submission_files/formaldehyde_nist_thermochem_exp.PNG)**
+- **[Formaldehyde summary of quantum chemistry calculations](./quantum_chemistry_calculations/as2_formaldehyde_submission_files/formaldehyde_assignment2.pdf)**
 
 ### Physics Vida: Review of Theory (Beginning March 2025)
 
